@@ -11,5 +11,5 @@ Java 源码浅析
 [Java Collections源码与用法](https://blog.csdn.net/dt235201314/article/details/78741922 "鼠标悬停显示")
 <br>
 <br>
-[Java ArrayList源码与用法](https://blog.csdn.net/DT235201314/article/details/79867960 "鼠标悬停显示")
+[当我们在聊ArrayList](https://blog.csdn.net/DT235201314/article/details/79867960 "鼠标悬停显示")
 <br>
