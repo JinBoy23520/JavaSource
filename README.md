@@ -16,3 +16,6 @@ Java 源码浅析
 <br>
 [当我们在聊LinkedList](https://blog.csdn.net/DT235201314/article/details/80421037 "鼠标悬停显示")
 <br>
+<br>
+[当我们在聊HashMap](https://blog.csdn.net/DT235201314/article/details/80452010 "鼠标悬停显示")
+<br>
